@@ -1,0 +1,2 @@
+# IntensiveWakeUpThrottlingEnabled
+This Script Enables IntensiveWakeUpThrottling on Windows
