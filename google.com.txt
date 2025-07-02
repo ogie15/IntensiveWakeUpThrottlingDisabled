@@ -1,2 +1,12 @@
 google.com
 www.google.com
+www.gstatic.com
+ssl.gstatic.com
+clients1.google.com
+clients3.google.com
+ogs.google.com
+www.googleapis.com
+fonts.googleapis.com
+www.googleadservices.com
+www.google-analytics.com
+connectivitycheck.gstatic.com
